@@ -20,7 +20,7 @@ Backend: Node.js, Express
 Build Tool: Vite
 
 ##Installation
-1 Clone the repository:git clone https://github.com/mukesh7ed4/youtube-downloader.git
+1 Clone the repository:git clone https://github.com/mukesh7ed4/Youtube-video-downloader.git
 
 2 Install dependencies:
 cd youtube-downloader
